@@ -4,10 +4,11 @@
 
 .nav-link {
     color: black;
+    margin: 0;
 }
     
 body{
-    background: url(images/ayampenyet.jpg) no-repeat center center fixed;
+    background: url(images/ayambakarsolo1.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 84vh;
     color: black;
