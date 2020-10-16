@@ -1,9 +1,13 @@
 #logo{
     width:30%;
 }
-div {
+
+    
+body{
+    background: url(images/ayampenyet.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 84vh;
     color: orange;
     font-family: verdana, sans-serif;
     font-size: small;
 }
-
