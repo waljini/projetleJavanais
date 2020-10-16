@@ -2,12 +2,27 @@
     width:30%;
 }
 
+.nav-link {
+    color: black;
+}
     
 body{
     background: url(images/ayampenyet.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 84vh;
-    color: orange;
+    color: black;
     font-family: verdana, sans-serif;
-    font-size: small;
+    font-size: 1rem;
+}
+
+h1{
+    text-align: center;
+    font-weight: 750;
+    margin-bottom: 5rem;
+    line-height: 5;
+    font-size: 3,5rem;
+}
+
+p{
+    text-align: center;
 }
