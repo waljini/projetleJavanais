@@ -1,0 +1,24 @@
+#logo{
+ 
+    width:33%;
+}
+
+.nav-link {
+    background-color: #C97B09;
+    color: #F2F4E9;
+    margin: 0;
+}
+ 
+.col-md-6 {
+    border: solid #C97B09;
+    width: max-content;
+    height: 20%;
+    margin: 3%;
+    justify-content: space-around;    
+}
+
+.btn{
+    background-color: #C97B09;
+    color: #F2F4E9;
+    justify-content: center;
+}
