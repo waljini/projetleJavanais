@@ -1,0 +1,30 @@
+element.style {
+}
+
+.navbar-nav {
+
+}
+.img {
+    position: relative;
+    top: -15px;
+    text-align: right;
+}
+
+
+
+p {
+    text-align: center;
+    color: #CC7406;
+}
+.navbar {
+    background-color: #CC7406;
+    color: #F2F4E9;
+}
+a .nav-item{
+    border-color: #CC7406;
+    border-radius: 5px;    
+}
+#button {
+    background-color:  #CC7406;
+    color: #F2F4E9;
+}
