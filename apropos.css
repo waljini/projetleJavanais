@@ -1,0 +1,61 @@
+#logo{
+    padding-left: 2%;
+    width:33%;
+}
+
+.container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img {
+    position: relative;
+    top: -15px;
+    text-align: right;
+}
+
+#button {
+    background-color: #C97B09;
+    color: white;
+    display: block;
+    margin: auto;
+    /* padding: 10px 20px 10px 20px; */
+    border-radius: 25px;
+    font-size: 1.8rem;
+}
+}
+.nav-link {
+    color: #C97B09;
+    margin: 0;
+}
+    
+body{
+    background: url(https://images.pexels.com/photos/4090091/pexels-photo-4090091.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) no-repeat center center fixed;
+    background-size: cover;
+    height: 84vh;
+    color:  #C97B09;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-size: 2rem;
+    border-radius: 10px;
+    
+}
+
+h1{
+    border-radius: 6px;
+    text-align: center;
+    font-weight: 900;
+    margin-bottom: 5rem;
+    line-height: 10%;
+    font-size: 3,5rem;
+    color:  #C97B09;
+}
+
+p{
+    padding-top: 20%;
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
