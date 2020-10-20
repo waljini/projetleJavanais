@@ -1,10 +1,17 @@
 #logo {
-    width: 33%;
+    width: 30%;
+    margin: 0px;
 }
 .img {
     position: relative;
-    top: -15px;
+    top: 5px;
     text-align: right;
+}
+
+div .dropdown-menu {
+    background-color: #C9810E;
+    color: #E8EBEE;
+    line-height: normal;
 }
 
 body{
@@ -20,9 +27,13 @@ p {
 .navbar {
     background-color: #CC7406;
     color: #F2F4E9;
+    height: 20%;
 }
 
 #button {
     background-color:  #CC7406;
     color: #F2F4E9;
+}
+footer{
+    color: #C9810E;
 }
