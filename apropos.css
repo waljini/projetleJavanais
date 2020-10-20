@@ -32,29 +32,18 @@
 }
     
 body{
-    background: url(https://images.pexels.com/photos/4090091/pexels-photo-4090091.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) no-repeat center center fixed;
+    background: url(images/rumah\ panggung.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 84vh;
-    color:  #C97B09;
+    color:#F2F4E9;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-    font-size: 2rem;
+    font-size: 1,3rem;
     border-radius: 10px;
-    
-}
-
-h1{
-    border-radius: 6px;
-    text-align: center;
-    font-weight: 900;
-    margin-bottom: 5rem;
-    line-height: 10%;
-    font-size: 3,5rem;
-    color:  #C97B09;
 }
 
 p{
-    padding-top: 20%;
+    padding-top: 5%;
     text-align: center;
-    font-size: 1rem;
+    font-size: 1,3rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
