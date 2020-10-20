@@ -12,7 +12,7 @@
     justify-content: space-between;
     padding: .5rem 1rem;
     margin-left: 0px;
-    height: 5%;
+    height: 2%;
 }
 .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
     width: 100%;
@@ -20,6 +20,11 @@
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+}
+div .dropdown-menu {
+    background-color: #C9810E;
+    color: #E8EBEE;
+    line-height: normal;
 }
 
 body {
@@ -47,7 +52,9 @@ body {
     padding-right: 15px;
     padding-left: 15px;
 }
-
+p {
+    margin-top: 10%;
+}
 footer {
     background-color:#E8EBEE ;
     color:  #C9810E;
