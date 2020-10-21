@@ -24,6 +24,9 @@ p {
     text-align: center;
     color: #CC7406;
 }
+.navcolor a{
+    color: #E8EBEE;
+}
 .navbar {
     background-color: #CC7406;
     color: #F2F4E9;
@@ -42,6 +45,6 @@ footer{
     height: 500px;
     width: 300px;
     margin-top: 10px;
-    border-color: #C9810E;
+    border-color: 2px solid #C9810E;
     border-radius: 8px;
 }

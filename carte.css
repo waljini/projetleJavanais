@@ -9,11 +9,14 @@ div .dropdown-menu {
   line-height: normal;
 }
 
-.nav-item{
-  color: #C9810E;
+header{
+  height: 25% ;
+}
+.navcolor a {
+  color: #C9810E!important;
 }
 body{
-  background-color:#F2F4E9;
+  background-color:#F2F4E9!important;
   background-size: cover;
   height: 84vh;
   color: #B97005;
@@ -30,10 +33,6 @@ body {
     color: black ;
   }
 
-img{
-  height: 156px;
-  width: 236px;
-}
 html body {
   background-color: #F2F4E9;
 }
@@ -59,12 +58,14 @@ footer {
   /* Declare heights because of positioning of img element */
   .carousel-item {
     height: 32rem;
+    background: #C9810E;
+    text-align: center;
   }
   .carousel-item > img {
-    position: absolute;
+    /* position: absolute;
     top: 0;
-    left: 0;
-    min-width: 100%;
+    left: 0; */
+    /* min-width: 100%; */
     height: 32rem;
   }
   

@@ -2,9 +2,13 @@
     width: 30%;
 }
 
+.navcolor a{
+color: #C9810E!important;
+
+}
 .navbar {
     position: relative;
-    background-color: #E8EBEE;
+    background-color: #E8EBEE!important;
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;

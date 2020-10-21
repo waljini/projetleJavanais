@@ -5,7 +5,7 @@
 
 .navbar {
     position: relative;
-    background-color: #E8EBEE;
+    background-color: #E8EBEE!important;
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
@@ -15,8 +15,8 @@
     margin-left: 0px;
     height: 2%;
 }
-a .nav-link btnmenu {
-    color: #B97005;
+.navcolor a {
+    color: #B97005!important;
     margin: 0;
 }
 
